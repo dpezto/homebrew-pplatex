@@ -2,7 +2,7 @@ class Pplatex < Formula
   desc "Prettify latex/pdflatex output into readable errors and warnings"
   homepage "https://github.com/stefanhepp/pplatex"
   url "https://github.com/dpezto/pplatex/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "4436bed444d3e0d9d9b568a666c1ab2737b12c81867ee300a6fc025d20acb33f"
+  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
   license "GPL-3.0-or-later"
   head "https://github.com/dpezto/pplatex.git", branch: "master"
 
