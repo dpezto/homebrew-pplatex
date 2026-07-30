@@ -8,9 +8,10 @@ warnings. Maintained fork of
 ## Install
 
     brew tap dpezto/pplatex
-    brew install --HEAD dpezto/pplatex/pplatex
+    brew install dpezto/pplatex/pplatex
 
 Installs `pplatex` plus the `ppdflatex` and `ppluatex` engine aliases.
+`--HEAD` builds the latest master instead of the release.
 
-Head-only until the fork tags a release; `brew upgrade --fetch-HEAD` picks up
-new commits.
+Prebuilt static binaries for Linux (x86_64/arm64, Raspberry Pi included) are
+on the [releases page](https://github.com/dpezto/pplatex/releases).
